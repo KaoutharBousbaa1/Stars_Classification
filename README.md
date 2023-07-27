@@ -1,1 +1,1 @@
-# Stars_Classification_with_Machine_Learning
+# Stars Classification with Machine Learning
